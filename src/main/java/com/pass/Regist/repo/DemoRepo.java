@@ -5,6 +5,6 @@ import com.pass.Regist.model.User;
 public class DemoRepo {
     public void demo(){
         User user = new User();
-        user.
+        user.setPassword("Password");
     }
 }
